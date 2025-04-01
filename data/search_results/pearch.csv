@@ -1,0 +1,459 @@
+query_id,query,search_rank,docid,reranking_group
+52143,Can you show me all the engineers who joined stripe before their series b. Only show people from the U.S.,0,thairu,3.0
+52143,Can you show me all the engineers who joined stripe before their series b. Only show people from the U.S.,1,siddarth-chandrasekaran-86504a20,4.0
+52143,Can you show me all the engineers who joined stripe before their series b. Only show people from the U.S.,3,ryanlopopolo,1.0
+52143,Can you show me all the engineers who joined stripe before their series b. Only show people from the U.S.,4,ebroder,3.0
+52143,Can you show me all the engineers who joined stripe before their series b. Only show people from the U.S.,5,srwoodrow,3.0
+52143,Can you show me all the engineers who joined stripe before their series b. Only show people from the U.S.,8,antifuchs,3.0
+52143,Can you show me all the engineers who joined stripe before their series b. Only show people from the U.S.,9,andybrody,4.0
+52156,COO who speaks Russians with experience with working with companies who focus on education through content and sell courses. Only show people from the U.S.,0,khoromskayad,4.0
+52156,COO who speaks Russians with experience with working with companies who focus on education through content and sell courses. Only show people from the U.S.,2,xavier-iraal-0234164b,2.0
+52156,COO who speaks Russians with experience with working with companies who focus on education through content and sell courses. Only show people from the U.S.,3,rita-vinokur-32b52083,3.0
+52156,COO who speaks Russians with experience with working with companies who focus on education through content and sell courses. Only show people from the U.S.,5,shcheglovandrey,2.0
+52156,COO who speaks Russians with experience with working with companies who focus on education through content and sell courses. Only show people from the U.S.,6,artemsedin,2.0
+52156,COO who speaks Russians with experience with working with companies who focus on education through content and sell courses. Only show people from the U.S.,8,alexeydomakhin,2.0
+52156,COO who speaks Russians with experience with working with companies who focus on education through content and sell courses. Only show people from the U.S.,9,ryanroccio,2.0
+52150,a perception engineer experienced with sensor fusion at a venture backed company with at least 5 years experience. Only show people from the U.S.,0,lei-liu-a00a9363,4.0
+52150,a perception engineer experienced with sensor fusion at a venture backed company with at least 5 years experience. Only show people from the U.S.,1,krithika-swaminathan-920a7713,4.0
+52150,a perception engineer experienced with sensor fusion at a venture backed company with at least 5 years experience. Only show people from the U.S.,2,rohithkrishnag,3.0
+52150,a perception engineer experienced with sensor fusion at a venture backed company with at least 5 years experience. Only show people from the U.S.,3,pengfeiren,4.0
+52150,a perception engineer experienced with sensor fusion at a venture backed company with at least 5 years experience. Only show people from the U.S.,4,premavn,4.0
+52150,a perception engineer experienced with sensor fusion at a venture backed company with at least 5 years experience. Only show people from the U.S.,5,bishwamoy,3.0
+52150,a perception engineer experienced with sensor fusion at a venture backed company with at least 5 years experience. Only show people from the U.S.,6,yifanyang0814,4.0
+52150,a perception engineer experienced with sensor fusion at a venture backed company with at least 5 years experience. Only show people from the U.S.,7,xiufeng-song-hiring-4b306341,4.0
+52150,a perception engineer experienced with sensor fusion at a venture backed company with at least 5 years experience. Only show people from the U.S.,8,chasekunz,4.0
+52150,a perception engineer experienced with sensor fusion at a venture backed company with at least 5 years experience. Only show people from the U.S.,9,kvarada,4.0
+52164,"owners and CEO of Amazon paid social agencies, who work with largest brands. Only show people from the U.S.",0,travis-johnson77,4.0
+52164,"owners and CEO of Amazon paid social agencies, who work with largest brands. Only show people from the U.S.",2,amorgans,4.0
+52164,"owners and CEO of Amazon paid social agencies, who work with largest brands. Only show people from the U.S.",3,sid-mikhail,4.0
+52164,"owners and CEO of Amazon paid social agencies, who work with largest brands. Only show people from the U.S.",4,sid-mikhail-47a1a5268,4.0
+52164,"owners and CEO of Amazon paid social agencies, who work with largest brands. Only show people from the U.S.",5,therealmattdavis,3.0
+52164,"owners and CEO of Amazon paid social agencies, who work with largest brands. Only show people from the U.S.",6,arthurmeyerovich,4.0
+52164,"owners and CEO of Amazon paid social agencies, who work with largest brands. Only show people from the U.S.",7,evan-j-a3207a196,4.0
+52164,"owners and CEO of Amazon paid social agencies, who work with largest brands. Only show people from the U.S.",8,nyezhnyk,4.0
+52164,"owners and CEO of Amazon paid social agencies, who work with largest brands. Only show people from the U.S.",9,kashifrzafar,3.0
+52191,"Customer success managers with at least 3 years of experience who are located in the San Francisco Bay Area. I would like them to come from companies that are Series A, Series B, or Series C. They need to have worked in healthcare technology at a SAAS company",0,carolina-gutierrez-93924756,4.0
+52191,"Customer success managers with at least 3 years of experience who are located in the San Francisco Bay Area. I would like them to come from companies that are Series A, Series B, or Series C. They need to have worked in healthcare technology at a SAAS company",1,jason-huang-401116108,3.0
+52191,"Customer success managers with at least 3 years of experience who are located in the San Francisco Bay Area. I would like them to come from companies that are Series A, Series B, or Series C. They need to have worked in healthcare technology at a SAAS company",2,blakecain,2.0
+52191,"Customer success managers with at least 3 years of experience who are located in the San Francisco Bay Area. I would like them to come from companies that are Series A, Series B, or Series C. They need to have worked in healthcare technology at a SAAS company",3,sean-hauser-107ab1a4,4.0
+52191,"Customer success managers with at least 3 years of experience who are located in the San Francisco Bay Area. I would like them to come from companies that are Series A, Series B, or Series C. They need to have worked in healthcare technology at a SAAS company",4,caleyrittman,4.0
+52191,"Customer success managers with at least 3 years of experience who are located in the San Francisco Bay Area. I would like them to come from companies that are Series A, Series B, or Series C. They need to have worked in healthcare technology at a SAAS company",5,kate-scott-52035116a,4.0
+52191,"Customer success managers with at least 3 years of experience who are located in the San Francisco Bay Area. I would like them to come from companies that are Series A, Series B, or Series C. They need to have worked in healthcare technology at a SAAS company",6,peterloddengaard,2.0
+52191,"Customer success managers with at least 3 years of experience who are located in the San Francisco Bay Area. I would like them to come from companies that are Series A, Series B, or Series C. They need to have worked in healthcare technology at a SAAS company",7,bethany-waldo-77614092,3.0
+52191,"Customer success managers with at least 3 years of experience who are located in the San Francisco Bay Area. I would like them to come from companies that are Series A, Series B, or Series C. They need to have worked in healthcare technology at a SAAS company",8,zack-dimaggio,2.0
+52191,"Customer success managers with at least 3 years of experience who are located in the San Francisco Bay Area. I would like them to come from companies that are Series A, Series B, or Series C. They need to have worked in healthcare technology at a SAAS company",9,tina-you,3.0
+52184,Looking for in house recruiter based in san Francisco at top VC backed companies (between seed - series C) with under 3 years of experience out of college,0,alexander-kuskov-recruitment,4.0
+52184,Looking for in house recruiter based in san Francisco at top VC backed companies (between seed - series C) with under 3 years of experience out of college,5,sean-o-sullivan-011972296,3.0
+52184,Looking for in house recruiter based in san Francisco at top VC backed companies (between seed - series C) with under 3 years of experience out of college,7,dane-zink-761551124,1.0
+52184,Looking for in house recruiter based in san Francisco at top VC backed companies (between seed - series C) with under 3 years of experience out of college,9,khadijah-ahmad-484692a5,1.0
+52183,A backend engineer from a top computer science program living in san francisco with 5 years experience working in startups developing performant and scalable backend systems and databases,0,chaitanya-pedada-5896b1147,4.0
+52183,A backend engineer from a top computer science program living in san francisco with 5 years experience working in startups developing performant and scalable backend systems and databases,1,josephou,2.0
+52183,A backend engineer from a top computer science program living in san francisco with 5 years experience working in startups developing performant and scalable backend systems and databases,2,sahilprasad,
+52183,A backend engineer from a top computer science program living in san francisco with 5 years experience working in startups developing performant and scalable backend systems and databases,4,ali-khan-49075912b,3.0
+52183,A backend engineer from a top computer science program living in san francisco with 5 years experience working in startups developing performant and scalable backend systems and databases,5,mukulm03,3.0
+52183,A backend engineer from a top computer science program living in san francisco with 5 years experience working in startups developing performant and scalable backend systems and databases,6,martin-tse-3b2aa51a5,2.0
+52183,A backend engineer from a top computer science program living in san francisco with 5 years experience working in startups developing performant and scalable backend systems and databases,7,stevenschlansker,2.0
+52183,A backend engineer from a top computer science program living in san francisco with 5 years experience working in startups developing performant and scalable backend systems and databases,8,mattstrom,2.0
+52183,A backend engineer from a top computer science program living in san francisco with 5 years experience working in startups developing performant and scalable backend systems and databases,9,keaton-subjeck,2.0
+52146,"Active angel investors who are interested in deep tech startup investments, spinouts from top universities. Only show people from the U.S.",2,deeptechvc,4.0
+52146,"Active angel investors who are interested in deep tech startup investments, spinouts from top universities. Only show people from the U.S.",3,kenspratlin,4.0
+52146,"Active angel investors who are interested in deep tech startup investments, spinouts from top universities. Only show people from the U.S.",5,sergiogurrieri,3.0
+52146,"Active angel investors who are interested in deep tech startup investments, spinouts from top universities. Only show people from the U.S.",9,barookhian,4.0
+52144,engineers with security clearance from top engineering programs. Only show people from the U.S.,0,justin-brooks-735ba614,4.0
+52144,engineers with security clearance from top engineering programs. Only show people from the U.S.,1,dale-synnes-ba603634,4.0
+52144,engineers with security clearance from top engineering programs. Only show people from the U.S.,2,christ-fisk-0b04912a,4.0
+52144,engineers with security clearance from top engineering programs. Only show people from the U.S.,3,tim-hutchison-272a054a,4.0
+52144,engineers with security clearance from top engineering programs. Only show people from the U.S.,4,gstaley,4.0
+52144,engineers with security clearance from top engineering programs. Only show people from the U.S.,5,joshua-snodgrass-a3a4184a,4.0
+52144,engineers with security clearance from top engineering programs. Only show people from the U.S.,6,gary-stoneburner-a5815a2,2.0
+52144,engineers with security clearance from top engineering programs. Only show people from the U.S.,7,jonathan-wright-18b07447,4.0
+52144,engineers with security clearance from top engineering programs. Only show people from the U.S.,8,stacy-georgilas-captain-m-s-e-a119688,4.0
+52144,engineers with security clearance from top engineering programs. Only show people from the U.S.,9,louis-pochet-6626ab45,4.0
+52145,full-stack ruby on rails engineer with founding experience who is a person of color. Only show people from the U.S.,0,aboubacar-toure93,2.0
+52145,full-stack ruby on rails engineer with founding experience who is a person of color. Only show people from the U.S.,2,josecapo,3.0
+52145,full-stack ruby on rails engineer with founding experience who is a person of color. Only show people from the U.S.,3,capjuancode,3.0
+52145,full-stack ruby on rails engineer with founding experience who is a person of color. Only show people from the U.S.,4,heyrichie,2.0
+52145,full-stack ruby on rails engineer with founding experience who is a person of color. Only show people from the U.S.,5,rubydeveloperadam,1.0
+52145,full-stack ruby on rails engineer with founding experience who is a person of color. Only show people from the U.S.,6,jordanbyron,2.0
+52145,full-stack ruby on rails engineer with founding experience who is a person of color. Only show people from the U.S.,7,manfrin,2.0
+52145,full-stack ruby on rails engineer with founding experience who is a person of color. Only show people from the U.S.,8,drew-c,2.0
+52145,full-stack ruby on rails engineer with founding experience who is a person of color. Only show people from the U.S.,9,clareconstantine,2.0
+52148,"Founding Engineer in one of the recent jobs, with Flask or FastAPI experience, native Russian, stayed more than 1 year at the recent jobs. Only show people from the U.S.",0,vasiliy-jigalov,2.0
+52148,"Founding Engineer in one of the recent jobs, with Flask or FastAPI experience, native Russian, stayed more than 1 year at the recent jobs. Only show people from the U.S.",1,alexandrkovalyov,4.0
+52148,"Founding Engineer in one of the recent jobs, with Flask or FastAPI experience, native Russian, stayed more than 1 year at the recent jobs. Only show people from the U.S.",3,canerturkmen,1.0
+52148,"Founding Engineer in one of the recent jobs, with Flask or FastAPI experience, native Russian, stayed more than 1 year at the recent jobs. Only show people from the U.S.",4,ivan-katkov,2.0
+52148,"Founding Engineer in one of the recent jobs, with Flask or FastAPI experience, native Russian, stayed more than 1 year at the recent jobs. Only show people from the U.S.",5,aleksey-korshuk,4.0
+52148,"Founding Engineer in one of the recent jobs, with Flask or FastAPI experience, native Russian, stayed more than 1 year at the recent jobs. Only show people from the U.S.",6,kirillkliushkin,3.0
+52148,"Founding Engineer in one of the recent jobs, with Flask or FastAPI experience, native Russian, stayed more than 1 year at the recent jobs. Only show people from the U.S.",7,volodymyr8khoroz,1.0
+52148,"Founding Engineer in one of the recent jobs, with Flask or FastAPI experience, native Russian, stayed more than 1 year at the recent jobs. Only show people from the U.S.",8,0xraduan,3.0
+52148,"Founding Engineer in one of the recent jobs, with Flask or FastAPI experience, native Russian, stayed more than 1 year at the recent jobs. Only show people from the U.S.",9,akaki-darbuashvili,1.0
+52152,a revenue cycle management specialist who is familiar with startups. Only show people from the U.S.,0,tara-morgan-08598b6b,4.0
+52152,a revenue cycle management specialist who is familiar with startups. Only show people from the U.S.,1,lisa-carmichael-a24a161b4,4.0
+52152,a revenue cycle management specialist who is familiar with startups. Only show people from the U.S.,2,kinga-winter-093391148,4.0
+52152,a revenue cycle management specialist who is familiar with startups. Only show people from the U.S.,3,april-campo-221b99274,4.0
+52152,a revenue cycle management specialist who is familiar with startups. Only show people from the U.S.,4,bridget-siofaga-931735200,4.0
+52152,a revenue cycle management specialist who is familiar with startups. Only show people from the U.S.,5,sherri-gillette-16418294,4.0
+52152,a revenue cycle management specialist who is familiar with startups. Only show people from the U.S.,6,catherine-demchuk-2a9b0680,3.0
+52152,a revenue cycle management specialist who is familiar with startups. Only show people from the U.S.,7,tiffanydeblasio-1980,3.0
+52152,a revenue cycle management specialist who is familiar with startups. Only show people from the U.S.,8,hannah-miller-msw,4.0
+52152,a revenue cycle management specialist who is familiar with startups. Only show people from the U.S.,9,laura-sandoval-b3b1b651,4.0
+52151,Armenian tech guys how want to make charity. Only show people from the U.S.,1,azibekyan,1.0
+52151,Armenian tech guys how want to make charity. Only show people from the U.S.,4,armenorujyan,3.0
+52151,Armenian tech guys how want to make charity. Only show people from the U.S.,5,gevorg-adamyan-b133ab24,4.0
+52151,Armenian tech guys how want to make charity. Only show people from the U.S.,6,khzrtian,4.0
+52151,Armenian tech guys how want to make charity. Only show people from the U.S.,7,patrickmalkassian,3.0
+52151,Armenian tech guys how want to make charity. Only show people from the U.S.,8,leo-de-venezia-556921110,2.0
+52151,Armenian tech guys how want to make charity. Only show people from the U.S.,9,shahan-derbedrosian-258371198,2.0
+52153,AI strategy consultant with a technical background and a deep understanding of AI / ML. They need to have some inhouse experience and have been a founder in their career. Based in New York,0,applied-ai,4.0
+52153,AI strategy consultant with a technical background and a deep understanding of AI / ML. They need to have some inhouse experience and have been a founder in their career. Based in New York,1,ofer-hermoni,4.0
+52153,AI strategy consultant with a technical background and a deep understanding of AI / ML. They need to have some inhouse experience and have been a founder in their career. Based in New York,2,jiahao,3.0
+52153,AI strategy consultant with a technical background and a deep understanding of AI / ML. They need to have some inhouse experience and have been a founder in their career. Based in New York,3,vinmarshall,4.0
+52153,AI strategy consultant with a technical background and a deep understanding of AI / ML. They need to have some inhouse experience and have been a founder in their career. Based in New York,4,jennshin,4.0
+52153,AI strategy consultant with a technical background and a deep understanding of AI / ML. They need to have some inhouse experience and have been a founder in their career. Based in New York,5,nbaldasaro,2.0
+52153,AI strategy consultant with a technical background and a deep understanding of AI / ML. They need to have some inhouse experience and have been a founder in their career. Based in New York,6,carlos-afonso-w,4.0
+52153,AI strategy consultant with a technical background and a deep understanding of AI / ML. They need to have some inhouse experience and have been a founder in their career. Based in New York,7,saad-muhayyodin-maan-b725395a,4.0
+52153,AI strategy consultant with a technical background and a deep understanding of AI / ML. They need to have some inhouse experience and have been a founder in their career. Based in New York,8,pfaratin,2.0
+52153,AI strategy consultant with a technical background and a deep understanding of AI / ML. They need to have some inhouse experience and have been a founder in their career. Based in New York,9,ramynoaman,3.0
+52149,C-level and VP executives at software companies of 500 people or more. Only show people from the U.S.,0,dmoynihan,4.0
+52149,C-level and VP executives at software companies of 500 people or more. Only show people from the U.S.,1,rashmi-garde-306027b,4.0
+52149,C-level and VP executives at software companies of 500 people or more. Only show people from the U.S.,2,jenbmorgan,4.0
+52149,C-level and VP executives at software companies of 500 people or more. Only show people from the U.S.,3,berryalex,2.0
+52149,C-level and VP executives at software companies of 500 people or more. Only show people from the U.S.,4,joestrongone,4.0
+52149,C-level and VP executives at software companies of 500 people or more. Only show people from the U.S.,5,nstevenlucas,4.0
+52149,C-level and VP executives at software companies of 500 people or more. Only show people from the U.S.,6,dev-stahlkopf,2.0
+52149,C-level and VP executives at software companies of 500 people or more. Only show people from the U.S.,7,gary-peterson-416441,4.0
+52149,C-level and VP executives at software companies of 500 people or more. Only show people from the U.S.,9,langly,3.0
+52154,"python developer, russian speaking, 7+ years of experience. Only show people from the U.S.",1,mikhail-makarov,4.0
+52154,"python developer, russian speaking, 7+ years of experience. Only show people from the U.S.",3,giorgi-kakulashvili-49a441131,1.0
+52154,"python developer, russian speaking, 7+ years of experience. Only show people from the U.S.",5,irina-kharitonova-46a371106,3.0
+52154,"python developer, russian speaking, 7+ years of experience. Only show people from the U.S.",8,ilia-laptev-705730158,3.0
+52154,"python developer, russian speaking, 7+ years of experience. Only show people from the U.S.",9,joshua-gray-65a99549,3.0
+52157,Seeking a CEO who co-founded a $1B startup. Only show people from the U.S.,0,juliataylorcheek,4.0
+52157,Seeking a CEO who co-founded a $1B startup. Only show people from the U.S.,1,viniciusvacanti,4.0
+52157,Seeking a CEO who co-founded a $1B startup. Only show people from the U.S.,2,joshuamotta,4.0
+52157,Seeking a CEO who co-founded a $1B startup. Only show people from the U.S.,3,patmccusker,4.0
+52157,Seeking a CEO who co-founded a $1B startup. Only show people from the U.S.,4,xutony,4.0
+52157,Seeking a CEO who co-founded a $1B startup. Only show people from the U.S.,5,isotowright,4.0
+52157,Seeking a CEO who co-founded a $1B startup. Only show people from the U.S.,6,howardyeh,3.0
+52157,Seeking a CEO who co-founded a $1B startup. Only show people from the U.S.,7,gyalif,2.0
+52157,Seeking a CEO who co-founded a $1B startup. Only show people from the U.S.,8,carolyn-childers-55b2642,4.0
+52157,Seeking a CEO who co-founded a $1B startup. Only show people from the U.S.,9,thazhmon,2.0
+52158,"Current position should be customer success specialist, not director or VP of customer success, with prior experience in CPAAS. Only show people from the U.S.",0,johnhartmann,3.0
+52158,"Current position should be customer success specialist, not director or VP of customer success, with prior experience in CPAAS. Only show people from the U.S.",1,cathleen-major-0bb24826b,2.0
+52158,"Current position should be customer success specialist, not director or VP of customer success, with prior experience in CPAAS. Only show people from the U.S.",2,lesliereilly,1.0
+52158,"Current position should be customer success specialist, not director or VP of customer success, with prior experience in CPAAS. Only show people from the U.S.",3,tarrahlittle,3.0
+52158,"Current position should be customer success specialist, not director or VP of customer success, with prior experience in CPAAS. Only show people from the U.S.",4,joshua-garrett-74542110a,1.0
+52158,"Current position should be customer success specialist, not director or VP of customer success, with prior experience in CPAAS. Only show people from the U.S.",5,jandi-pope-b5028213b,1.0
+52158,"Current position should be customer success specialist, not director or VP of customer success, with prior experience in CPAAS. Only show people from the U.S.",6,jacob-soto-692029197,1.0
+52158,"Current position should be customer success specialist, not director or VP of customer success, with prior experience in CPAAS. Only show people from the U.S.",7,gina-madera-3710131a6,1.0
+52158,"Current position should be customer success specialist, not director or VP of customer success, with prior experience in CPAAS. Only show people from the U.S.",8,vilma-ortiz-315846216,1.0
+52158,"Current position should be customer success specialist, not director or VP of customer success, with prior experience in CPAAS. Only show people from the U.S.",9,javier-paulino-a28a15228,1.0
+52160,someone who has built and sold a startup that raised at least $2m. Good if they exited before. They need to have top education from United States. Only show people from the U.S.,0,helen-guo-06674523,4.0
+52160,someone who has built and sold a startup that raised at least $2m. Good if they exited before. They need to have top education from United States. Only show people from the U.S.,1,dylan-kaplan-32351887,4.0
+52160,someone who has built and sold a startup that raised at least $2m. Good if they exited before. They need to have top education from United States. Only show people from the U.S.,2,kimiloluwa,4.0
+52160,someone who has built and sold a startup that raised at least $2m. Good if they exited before. They need to have top education from United States. Only show people from the U.S.,3,sauermary,4.0
+52160,someone who has built and sold a startup that raised at least $2m. Good if they exited before. They need to have top education from United States. Only show people from the U.S.,4,benjones250,4.0
+52160,someone who has built and sold a startup that raised at least $2m. Good if they exited before. They need to have top education from United States. Only show people from the U.S.,5,martin-claure-316980,4.0
+52160,someone who has built and sold a startup that raised at least $2m. Good if they exited before. They need to have top education from United States. Only show people from the U.S.,6,kenleiserson,3.0
+52160,someone who has built and sold a startup that raised at least $2m. Good if they exited before. They need to have top education from United States. Only show people from the U.S.,7,robymiller,4.0
+52160,someone who has built and sold a startup that raised at least $2m. Good if they exited before. They need to have top education from United States. Only show people from the U.S.,8,psfinleystl,4.0
+52160,someone who has built and sold a startup that raised at least $2m. Good if they exited before. They need to have top education from United States. Only show people from the U.S.,9,jersmith22,4.0
+52155,a Head of People Performance for a SaaS company. They need to have experience in a big 4 consultancy and skilled at building processes and analysing data. Only show people from the U.S.,0,daniel-choi-6499b7b,4.0
+52155,a Head of People Performance for a SaaS company. They need to have experience in a big 4 consultancy and skilled at building processes and analysing data. Only show people from the U.S.,1,nickkalave,4.0
+52155,a Head of People Performance for a SaaS company. They need to have experience in a big 4 consultancy and skilled at building processes and analysing data. Only show people from the U.S.,2,jeff-lee-6b5177145,4.0
+52155,a Head of People Performance for a SaaS company. They need to have experience in a big 4 consultancy and skilled at building processes and analysing data. Only show people from the U.S.,3,vijay-lilaram-171b515,3.0
+52155,a Head of People Performance for a SaaS company. They need to have experience in a big 4 consultancy and skilled at building processes and analysing data. Only show people from the U.S.,4,nick-lobuglio-5a9312b,3.0
+52155,a Head of People Performance for a SaaS company. They need to have experience in a big 4 consultancy and skilled at building processes and analysing data. Only show people from the U.S.,5,stephanie-webb-3a96a72,4.0
+52155,a Head of People Performance for a SaaS company. They need to have experience in a big 4 consultancy and skilled at building processes and analysing data. Only show people from the U.S.,6,victoriagersh,3.0
+52155,a Head of People Performance for a SaaS company. They need to have experience in a big 4 consultancy and skilled at building processes and analysing data. Only show people from the U.S.,7,nathanknight,3.0
+52155,a Head of People Performance for a SaaS company. They need to have experience in a big 4 consultancy and skilled at building processes and analysing data. Only show people from the U.S.,8,tina-woodhart,4.0
+52155,a Head of People Performance for a SaaS company. They need to have experience in a big 4 consultancy and skilled at building processes and analysing data. Only show people from the U.S.,9,amandalbradshaw,3.0
+52161,for a CMO with crypto experience and with strong techincal background. Only show people from the U.S.,1,andrewstief,4.0
+52161,for a CMO with crypto experience and with strong techincal background. Only show people from the U.S.,2,eli-alegria,4.0
+52161,for a CMO with crypto experience and with strong techincal background. Only show people from the U.S.,3,timothybogert,2.0
+52161,for a CMO with crypto experience and with strong techincal background. Only show people from the U.S.,4,williams-ida-62538913a,3.0
+52161,for a CMO with crypto experience and with strong techincal background. Only show people from the U.S.,5,christinaxyz,3.0
+52161,for a CMO with crypto experience and with strong techincal background. Only show people from the U.S.,8,angelaceccarelli,3.0
+52161,for a CMO with crypto experience and with strong techincal background. Only show people from the U.S.,9,reginascolaro,2.0
+52162,"I am looking for a former FAANG recruiter, tech-savvy, willing to build a product that will fix hiring for product teams. Only show people from the U.S.",0,sundayshields,3.0
+52162,"I am looking for a former FAANG recruiter, tech-savvy, willing to build a product that will fix hiring for product teams. Only show people from the U.S.",1,stacieratliff,3.0
+52162,"I am looking for a former FAANG recruiter, tech-savvy, willing to build a product that will fix hiring for product teams. Only show people from the U.S.",2,kgrounds,4.0
+52162,"I am looking for a former FAANG recruiter, tech-savvy, willing to build a product that will fix hiring for product teams. Only show people from the U.S.",5,yuri-alesin-72362182,2.0
+52162,"I am looking for a former FAANG recruiter, tech-savvy, willing to build a product that will fix hiring for product teams. Only show people from the U.S.",6,harveyalcabes,3.0
+52162,"I am looking for a former FAANG recruiter, tech-savvy, willing to build a product that will fix hiring for product teams. Only show people from the U.S.",7,troybarba,3.0
+52162,"I am looking for a former FAANG recruiter, tech-savvy, willing to build a product that will fix hiring for product teams. Only show people from the U.S.",8,monica-nagar-choudhry-62666b15,3.0
+52162,"I am looking for a former FAANG recruiter, tech-savvy, willing to build a product that will fix hiring for product teams. Only show people from the U.S.",9,alex-dunlop-39b26889,2.0
+52163,a Head of People Performance for a SaaS company. They need to have experience in a big 4 consultancy and skilled at building processes and analysing data. Only show people from the U.S.,1,daniel-choi-6499b7b,4.0
+52163,a Head of People Performance for a SaaS company. They need to have experience in a big 4 consultancy and skilled at building processes and analysing data. Only show people from the U.S.,2,nickkalave,4.0
+52163,a Head of People Performance for a SaaS company. They need to have experience in a big 4 consultancy and skilled at building processes and analysing data. Only show people from the U.S.,3,victoriagersh,3.0
+52163,a Head of People Performance for a SaaS company. They need to have experience in a big 4 consultancy and skilled at building processes and analysing data. Only show people from the U.S.,4,tina-woodhart,4.0
+52163,a Head of People Performance for a SaaS company. They need to have experience in a big 4 consultancy and skilled at building processes and analysing data. Only show people from the U.S.,5,amandalbradshaw,2.0
+52163,a Head of People Performance for a SaaS company. They need to have experience in a big 4 consultancy and skilled at building processes and analysing data. Only show people from the U.S.,6,kttucker,3.0
+52163,a Head of People Performance for a SaaS company. They need to have experience in a big 4 consultancy and skilled at building processes and analysing data. Only show people from the U.S.,7,shelliholland,2.0
+52163,a Head of People Performance for a SaaS company. They need to have experience in a big 4 consultancy and skilled at building processes and analysing data. Only show people from the U.S.,8,melanie-oberman-4b612b9,4.0
+52163,a Head of People Performance for a SaaS company. They need to have experience in a big 4 consultancy and skilled at building processes and analysing data. Only show people from the U.S.,9,rorizane,4.0
+52165,founder of fintech startup. Only show people from the U.S.,0,rodriguezfelix,4.0
+52165,founder of fintech startup. Only show people from the U.S.,1,neelganu,4.0
+52165,founder of fintech startup. Only show people from the U.S.,2,ryanfeit,4.0
+52165,founder of fintech startup. Only show people from the U.S.,3,kenjiniwa,4.0
+52165,founder of fintech startup. Only show people from the U.S.,4,billy-libby-76464b1,4.0
+52165,founder of fintech startup. Only show people from the U.S.,5,bart-longson-b2a68448,4.0
+52165,founder of fintech startup. Only show people from the U.S.,6,kylekamrooz,4.0
+52165,founder of fintech startup. Only show people from the U.S.,7,reuven-mirlis-787a51104,4.0
+52165,founder of fintech startup. Only show people from the U.S.,8,sabeer-nelliparamban,4.0
+52165,founder of fintech startup. Only show people from the U.S.,9,patrickgannon,4.0
+52166,Venture investor. Only show people from the U.S.,1,sameer-mehta-ventures,4.0
+52166,Venture investor. Only show people from the U.S.,2,jeffdlee,4.0
+52166,Venture investor. Only show people from the U.S.,3,jake-fuchs-7b5ab472,4.0
+52166,Venture investor. Only show people from the U.S.,4,alexbangash,4.0
+52166,Venture investor. Only show people from the U.S.,5,beau-allen-64335924,3.0
+52166,Venture investor. Only show people from the U.S.,6,alexhartigan,4.0
+52166,Venture investor. Only show people from the U.S.,7,adoralovestrand,4.0
+52166,Venture investor. Only show people from the U.S.,8,dag-syrrist-987ba65,4.0
+52167,"looking for a CTO with experience in AI and machine learning, who has also led a team of 50+ developers. Bonus if they have a background in cybersecurity. Only show people from the U.S.",1,jeff-johnson-9487a25,4.0
+52167,"looking for a CTO with experience in AI and machine learning, who has also led a team of 50+ developers. Bonus if they have a background in cybersecurity. Only show people from the U.S.",2,jtorello,4.0
+52167,"looking for a CTO with experience in AI and machine learning, who has also led a team of 50+ developers. Bonus if they have a background in cybersecurity. Only show people from the U.S.",3,vineetmahajan,4.0
+52167,"looking for a CTO with experience in AI and machine learning, who has also led a team of 50+ developers. Bonus if they have a background in cybersecurity. Only show people from the U.S.",4,mmohen,4.0
+52167,"looking for a CTO with experience in AI and machine learning, who has also led a team of 50+ developers. Bonus if they have a background in cybersecurity. Only show people from the U.S.",5,jessetolson,4.0
+52167,"looking for a CTO with experience in AI and machine learning, who has also led a team of 50+ developers. Bonus if they have a background in cybersecurity. Only show people from the U.S.",6,carltrudel,4.0
+52167,"looking for a CTO with experience in AI and machine learning, who has also led a team of 50+ developers. Bonus if they have a background in cybersecurity. Only show people from the U.S.",7,christopher-hemminger-78610221b,4.0
+52167,"looking for a CTO with experience in AI and machine learning, who has also led a team of 50+ developers. Bonus if they have a background in cybersecurity. Only show people from the U.S.",9,hunterpowers,4.0
+52168,product manager social referral and community mechanics in apps. Only show people from the U.S.,0,camil-ward-59576071,2.0
+52168,product manager social referral and community mechanics in apps. Only show people from the U.S.,3,emilysteele12,2.0
+52168,product manager social referral and community mechanics in apps. Only show people from the U.S.,4,kim-faria-wallace-a6183a212,2.0
+52168,product manager social referral and community mechanics in apps. Only show people from the U.S.,6,duke-yancey-8a0a2b12,1.0
+52168,product manager social referral and community mechanics in apps. Only show people from the U.S.,7,jesse-price-88ba2779,2.0
+52168,product manager social referral and community mechanics in apps. Only show people from the U.S.,8,william-newlon-95b515179,1.0
+52169,Amazon PPC Specialist in e-commerce sector in Boston,0,dunnwilliam1,2.0
+52169,Amazon PPC Specialist in e-commerce sector in Boston,1,e-a,4.0
+52169,Amazon PPC Specialist in e-commerce sector in Boston,2,sarah-kim-0b3a0786,4.0
+52169,Amazon PPC Specialist in e-commerce sector in Boston,3,laurenpuliafico,3.0
+52169,Amazon PPC Specialist in e-commerce sector in Boston,4,gretchenmacon,2.0
+52169,Amazon PPC Specialist in e-commerce sector in Boston,5,mike-white17,2.0
+52169,Amazon PPC Specialist in e-commerce sector in Boston,6,daleyj,4.0
+52169,Amazon PPC Specialist in e-commerce sector in Boston,7,ahranlee121288,2.0
+52169,Amazon PPC Specialist in e-commerce sector in Boston,8,tiana-hendrix-92a285172,2.0
+52169,Amazon PPC Specialist in e-commerce sector in Boston,9,tiana-hendrix,2.0
+52172,"UX designer with respectable tenures in the bay area who has AI experience, early-stage tech company experience, and is focused on human centered design",0,advaitgadre,4.0
+52172,"UX designer with respectable tenures in the bay area who has AI experience, early-stage tech company experience, and is focused on human centered design",1,hanleyweng,2.0
+52172,"UX designer with respectable tenures in the bay area who has AI experience, early-stage tech company experience, and is focused on human centered design",2,adriennekfong,3.0
+52172,"UX designer with respectable tenures in the bay area who has AI experience, early-stage tech company experience, and is focused on human centered design",3,serenae,4.0
+52172,"UX designer with respectable tenures in the bay area who has AI experience, early-stage tech company experience, and is focused on human centered design",4,khywong,4.0
+52172,"UX designer with respectable tenures in the bay area who has AI experience, early-stage tech company experience, and is focused on human centered design",5,katdlf,4.0
+52172,"UX designer with respectable tenures in the bay area who has AI experience, early-stage tech company experience, and is focused on human centered design",6,cward1,4.0
+52172,"UX designer with respectable tenures in the bay area who has AI experience, early-stage tech company experience, and is focused on human centered design",7,marinabroido,4.0
+52172,"UX designer with respectable tenures in the bay area who has AI experience, early-stage tech company experience, and is focused on human centered design",8,kaori-rei-1021a6177,4.0
+52172,"UX designer with respectable tenures in the bay area who has AI experience, early-stage tech company experience, and is focused on human centered design",9,sonali-tungare,2.0
+52171,founders who sold their companies or did an IPO. Only show people from the U.S.,0,benbotvinick,4.0
+52171,founders who sold their companies or did an IPO. Only show people from the U.S.,1,gerryhays,4.0
+52171,founders who sold their companies or did an IPO. Only show people from the U.S.,2,joejmeyer,4.0
+52171,founders who sold their companies or did an IPO. Only show people from the U.S.,3,pudovalex,4.0
+52171,founders who sold their companies or did an IPO. Only show people from the U.S.,4,mattschnuck,4.0
+52171,founders who sold their companies or did an IPO. Only show people from the U.S.,5,ga-gerardadams,4.0
+52171,founders who sold their companies or did an IPO. Only show people from the U.S.,6,garyculliss,4.0
+52171,founders who sold their companies or did an IPO. Only show people from the U.S.,7,jamesjwood,4.0
+52171,founders who sold their companies or did an IPO. Only show people from the U.S.,8,daniel-dykens-27a6b3,4.0
+52171,founders who sold their companies or did an IPO. Only show people from the U.S.,9,davidabeyer,4.0
+52174,"Looking for C level or senior executives currently running innovation and strategy at large corporations. I only need senior level full time employees, avoid consultants. Only show people from the U.S.",0,kristen-russell-3874a07,4.0
+52174,"Looking for C level or senior executives currently running innovation and strategy at large corporations. I only need senior level full time employees, avoid consultants. Only show people from the U.S.",1,leeng,4.0
+52174,"Looking for C level or senior executives currently running innovation and strategy at large corporations. I only need senior level full time employees, avoid consultants. Only show people from the U.S.",2,brianvellmure,4.0
+52174,"Looking for C level or senior executives currently running innovation and strategy at large corporations. I only need senior level full time employees, avoid consultants. Only show people from the U.S.",3,julia-hilton-b643594,4.0
+52174,"Looking for C level or senior executives currently running innovation and strategy at large corporations. I only need senior level full time employees, avoid consultants. Only show people from the U.S.",4,tomcgibson,4.0
+52174,"Looking for C level or senior executives currently running innovation and strategy at large corporations. I only need senior level full time employees, avoid consultants. Only show people from the U.S.",5,elisabeth-azzarello,3.0
+52174,"Looking for C level or senior executives currently running innovation and strategy at large corporations. I only need senior level full time employees, avoid consultants. Only show people from the U.S.",6,david-rothenstein-7b96649,4.0
+52174,"Looking for C level or senior executives currently running innovation and strategy at large corporations. I only need senior level full time employees, avoid consultants. Only show people from the U.S.",7,petemarraga,4.0
+52174,"Looking for C level or senior executives currently running innovation and strategy at large corporations. I only need senior level full time employees, avoid consultants. Only show people from the U.S.",8,deborah-golden,4.0
+52174,"Looking for C level or senior executives currently running innovation and strategy at large corporations. I only need senior level full time employees, avoid consultants. Only show people from the U.S.",9,shanlal,4.0
+52173,digital marketer manager with experience in the biotech. Only show people from the U.S.,0,madelinehoppy,3.0
+52173,digital marketer manager with experience in the biotech. Only show people from the U.S.,1,hellofromsteph,3.0
+52173,digital marketer manager with experience in the biotech. Only show people from the U.S.,2,caseygold,4.0
+52173,digital marketer manager with experience in the biotech. Only show people from the U.S.,3,richard-muser-ii-02184238,4.0
+52173,digital marketer manager with experience in the biotech. Only show people from the U.S.,4,heidi-h-a899645,4.0
+52173,digital marketer manager with experience in the biotech. Only show people from the U.S.,5,claudia-li-90923052,4.0
+52173,digital marketer manager with experience in the biotech. Only show people from the U.S.,6,sethtpreston,4.0
+52173,digital marketer manager with experience in the biotech. Only show people from the U.S.,7,marcia-r-aa8914,4.0
+52173,digital marketer manager with experience in the biotech. Only show people from the U.S.,8,ana-moriset-07411463,4.0
+52177,"Senior Organic Chemist California, Berkeley PhD Management skills Russian speaking Organic lab experience. Only show people from the U.S.",0,narine-karamyan,2.0
+52177,"Senior Organic Chemist California, Berkeley PhD Management skills Russian speaking Organic lab experience. Only show people from the U.S.",1,boris-pekelis-ph-d-49aa1611,2.0
+52177,"Senior Organic Chemist California, Berkeley PhD Management skills Russian speaking Organic lab experience. Only show people from the U.S.",2,elena-rogojina-268a939,2.0
+52175,Looking for a project manager who have built small teams from the scratch and who must have an experience in building simple BROWSER web games. Only show people from the U.S.,0,tuanqtrinh,3.0
+52175,Looking for a project manager who have built small teams from the scratch and who must have an experience in building simple BROWSER web games. Only show people from the U.S.,1,stevenleon,2.0
+52175,Looking for a project manager who have built small teams from the scratch and who must have an experience in building simple BROWSER web games. Only show people from the U.S.,3,joedillinger,1.0
+52175,Looking for a project manager who have built small teams from the scratch and who must have an experience in building simple BROWSER web games. Only show people from the U.S.,5,marinapieplow,2.0
+52175,Looking for a project manager who have built small teams from the scratch and who must have an experience in building simple BROWSER web games. Only show people from the U.S.,6,kecosta,2.0
+52175,Looking for a project manager who have built small teams from the scratch and who must have an experience in building simple BROWSER web games. Only show people from the U.S.,8,groverwimberlyiv,2.0
+52175,Looking for a project manager who have built small teams from the scratch and who must have an experience in building simple BROWSER web games. Only show people from the U.S.,9,eric1a,2.0
+52176,a collective intelligence expert who can help me architect a new software. Only show people from the U.S.,0,brianmoonperigean,4.0
+52176,a collective intelligence expert who can help me architect a new software. Only show people from the U.S.,1,craigakaplan,4.0
+52176,a collective intelligence expert who can help me architect a new software. Only show people from the U.S.,2,kimpolese,4.0
+52176,a collective intelligence expert who can help me architect a new software. Only show people from the U.S.,3,markwaser,3.0
+52176,a collective intelligence expert who can help me architect a new software. Only show people from the U.S.,4,shana-fox-phd-609b08186,3.0
+52176,a collective intelligence expert who can help me architect a new software. Only show people from the U.S.,6,jmeluso,2.0
+52176,a collective intelligence expert who can help me architect a new software. Only show people from the U.S.,8,chris-jonesy-jones-28346255,3.0
+52176,a collective intelligence expert who can help me architect a new software. Only show people from the U.S.,9,sciencesteve,3.0
+52178,"I am looking for an ASIC Design Verification Engineer.  
+Bachelor's or Master's degree in Electrical Engineering, Computer Engineering, or a related field.  Strong experience in chip design, including a good understanding of design verification"".  Proficiency in UVM (Universal Verification Methodology) and/or other verification methodologies.  Solid programming skills in Python, C, C++, Verilog, or SystemVerilog.  Ideal persona: problem-solver, proactive, innovative, thinks outside the box.
+I am not interested in those who have frequent job changes. Only show people from the U.S.",0,amit-dugar-43b51949,3.0
+52178,"I am looking for an ASIC Design Verification Engineer.  
+Bachelor's or Master's degree in Electrical Engineering, Computer Engineering, or a related field.  Strong experience in chip design, including a good understanding of design verification"".  Proficiency in UVM (Universal Verification Methodology) and/or other verification methodologies.  Solid programming skills in Python, C, C++, Verilog, or SystemVerilog.  Ideal persona: problem-solver, proactive, innovative, thinks outside the box.
+I am not interested in those who have frequent job changes. Only show people from the U.S.",1,gabecordova,4.0
+52178,"I am looking for an ASIC Design Verification Engineer.  
+Bachelor's or Master's degree in Electrical Engineering, Computer Engineering, or a related field.  Strong experience in chip design, including a good understanding of design verification"".  Proficiency in UVM (Universal Verification Methodology) and/or other verification methodologies.  Solid programming skills in Python, C, C++, Verilog, or SystemVerilog.  Ideal persona: problem-solver, proactive, innovative, thinks outside the box.
+I am not interested in those who have frequent job changes. Only show people from the U.S.",2,chun-he-15953390,4.0
+52178,"I am looking for an ASIC Design Verification Engineer.  
+Bachelor's or Master's degree in Electrical Engineering, Computer Engineering, or a related field.  Strong experience in chip design, including a good understanding of design verification"".  Proficiency in UVM (Universal Verification Methodology) and/or other verification methodologies.  Solid programming skills in Python, C, C++, Verilog, or SystemVerilog.  Ideal persona: problem-solver, proactive, innovative, thinks outside the box.
+I am not interested in those who have frequent job changes. Only show people from the U.S.",3,vyawahareaditya,4.0
+52178,"I am looking for an ASIC Design Verification Engineer.  
+Bachelor's or Master's degree in Electrical Engineering, Computer Engineering, or a related field.  Strong experience in chip design, including a good understanding of design verification"".  Proficiency in UVM (Universal Verification Methodology) and/or other verification methodologies.  Solid programming skills in Python, C, C++, Verilog, or SystemVerilog.  Ideal persona: problem-solver, proactive, innovative, thinks outside the box.
+I am not interested in those who have frequent job changes. Only show people from the U.S.",4,lance-h-5262a745,4.0
+52178,"I am looking for an ASIC Design Verification Engineer.  
+Bachelor's or Master's degree in Electrical Engineering, Computer Engineering, or a related field.  Strong experience in chip design, including a good understanding of design verification"".  Proficiency in UVM (Universal Verification Methodology) and/or other verification methodologies.  Solid programming skills in Python, C, C++, Verilog, or SystemVerilog.  Ideal persona: problem-solver, proactive, innovative, thinks outside the box.
+I am not interested in those who have frequent job changes. Only show people from the U.S.",5,ityaad7,1.0
+52178,"I am looking for an ASIC Design Verification Engineer.  
+Bachelor's or Master's degree in Electrical Engineering, Computer Engineering, or a related field.  Strong experience in chip design, including a good understanding of design verification"".  Proficiency in UVM (Universal Verification Methodology) and/or other verification methodologies.  Solid programming skills in Python, C, C++, Verilog, or SystemVerilog.  Ideal persona: problem-solver, proactive, innovative, thinks outside the box.
+I am not interested in those who have frequent job changes. Only show people from the U.S.",6,karthik28,4.0
+52178,"I am looking for an ASIC Design Verification Engineer.  
+Bachelor's or Master's degree in Electrical Engineering, Computer Engineering, or a related field.  Strong experience in chip design, including a good understanding of design verification"".  Proficiency in UVM (Universal Verification Methodology) and/or other verification methodologies.  Solid programming skills in Python, C, C++, Verilog, or SystemVerilog.  Ideal persona: problem-solver, proactive, innovative, thinks outside the box.
+I am not interested in those who have frequent job changes. Only show people from the U.S.",7,catalinoeusebio,4.0
+52178,"I am looking for an ASIC Design Verification Engineer.  
+Bachelor's or Master's degree in Electrical Engineering, Computer Engineering, or a related field.  Strong experience in chip design, including a good understanding of design verification"".  Proficiency in UVM (Universal Verification Methodology) and/or other verification methodologies.  Solid programming skills in Python, C, C++, Verilog, or SystemVerilog.  Ideal persona: problem-solver, proactive, innovative, thinks outside the box.
+I am not interested in those who have frequent job changes. Only show people from the U.S.",8,shangyil,4.0
+52178,"I am looking for an ASIC Design Verification Engineer.  
+Bachelor's or Master's degree in Electrical Engineering, Computer Engineering, or a related field.  Strong experience in chip design, including a good understanding of design verification"".  Proficiency in UVM (Universal Verification Methodology) and/or other verification methodologies.  Solid programming skills in Python, C, C++, Verilog, or SystemVerilog.  Ideal persona: problem-solver, proactive, innovative, thinks outside the box.
+I am not interested in those who have frequent job changes. Only show people from the U.S.",9,xiaoqing-s-024539225,4.0
+52181,"Business development manager (junior to mid-level, not senior or director-level) with experience in B2B SaaS AI products (productivity software), preferably in startups, based in Philadelphia",0,ryan-scomo-837850249,4.0
+52181,"Business development manager (junior to mid-level, not senior or director-level) with experience in B2B SaaS AI products (productivity software), preferably in startups, based in Philadelphia",1,joe-lewis-a421821a7,3.0
+52181,"Business development manager (junior to mid-level, not senior or director-level) with experience in B2B SaaS AI products (productivity software), preferably in startups, based in Philadelphia",2,elisa-jose,3.0
+52181,"Business development manager (junior to mid-level, not senior or director-level) with experience in B2B SaaS AI products (productivity software), preferably in startups, based in Philadelphia",3,john-lucas-jr,2.0
+52181,"Business development manager (junior to mid-level, not senior or director-level) with experience in B2B SaaS AI products (productivity software), preferably in startups, based in Philadelphia",5,danielkyle21,2.0
+52181,"Business development manager (junior to mid-level, not senior or director-level) with experience in B2B SaaS AI products (productivity software), preferably in startups, based in Philadelphia",6,stephanieumstead,2.0
+52181,"Business development manager (junior to mid-level, not senior or director-level) with experience in B2B SaaS AI products (productivity software), preferably in startups, based in Philadelphia",8,bojingirenefu,2.0
+52181,"Business development manager (junior to mid-level, not senior or director-level) with experience in B2B SaaS AI products (productivity software), preferably in startups, based in Philadelphia",9,adam-salter-5105a12b,2.0
+52182,I'm looking for a VP or Head of Sales for a health tech Series A startup Has successfully built and managed a team of 10 sales reps Ideally located in Los Angeles CA. This person needs to have at least 3 years of experience working as VP or Head of Sales.,0,timothyjohnson81,2.0
+52182,I'm looking for a VP or Head of Sales for a health tech Series A startup Has successfully built and managed a team of 10 sales reps Ideally located in Los Angeles CA. This person needs to have at least 3 years of experience working as VP or Head of Sales.,1,peter-longo-a97aa13,4.0
+52182,I'm looking for a VP or Head of Sales for a health tech Series A startup Has successfully built and managed a team of 10 sales reps Ideally located in Los Angeles CA. This person needs to have at least 3 years of experience working as VP or Head of Sales.,2,georgenavarro,3.0
+52182,I'm looking for a VP or Head of Sales for a health tech Series A startup Has successfully built and managed a team of 10 sales reps Ideally located in Los Angeles CA. This person needs to have at least 3 years of experience working as VP or Head of Sales.,3,tyler-luc-8056497,2.0
+52182,I'm looking for a VP or Head of Sales for a health tech Series A startup Has successfully built and managed a team of 10 sales reps Ideally located in Los Angeles CA. This person needs to have at least 3 years of experience working as VP or Head of Sales.,4,omid-m,3.0
+52182,I'm looking for a VP or Head of Sales for a health tech Series A startup Has successfully built and managed a team of 10 sales reps Ideally located in Los Angeles CA. This person needs to have at least 3 years of experience working as VP or Head of Sales.,5,tarrant-moses-b9289919,2.0
+52182,I'm looking for a VP or Head of Sales for a health tech Series A startup Has successfully built and managed a team of 10 sales reps Ideally located in Los Angeles CA. This person needs to have at least 3 years of experience working as VP or Head of Sales.,6,mkbconsulting,3.0
+52182,I'm looking for a VP or Head of Sales for a health tech Series A startup Has successfully built and managed a team of 10 sales reps Ideally located in Los Angeles CA. This person needs to have at least 3 years of experience working as VP or Head of Sales.,7,williammccullough,4.0
+52182,I'm looking for a VP or Head of Sales for a health tech Series A startup Has successfully built and managed a team of 10 sales reps Ideally located in Los Angeles CA. This person needs to have at least 3 years of experience working as VP or Head of Sales.,8,jeffbhuber,4.0
+52182,I'm looking for a VP or Head of Sales for a health tech Series A startup Has successfully built and managed a team of 10 sales reps Ideally located in Los Angeles CA. This person needs to have at least 3 years of experience working as VP or Head of Sales.,9,mike-snyder-0520485,3.0
+52180,"A Boston University (BU) alum that is a head of a department or a founder at an AI first, or AI adjacent company. The company can be losely related to AI or LLMs, or might be working to building out their AI feature set. Only show people from the U.S.",0,kj-peterson,4.0
+52180,"A Boston University (BU) alum that is a head of a department or a founder at an AI first, or AI adjacent company. The company can be losely related to AI or LLMs, or might be working to building out their AI feature set. Only show people from the U.S.",1,heather-ames-versace-58bb487,4.0
+52180,"A Boston University (BU) alum that is a head of a department or a founder at an AI first, or AI adjacent company. The company can be losely related to AI or LLMs, or might be working to building out their AI feature set. Only show people from the U.S.",2,rushi-ganmukhi-66836212a,4.0
+52180,"A Boston University (BU) alum that is a head of a department or a founder at an AI first, or AI adjacent company. The company can be losely related to AI or LLMs, or might be working to building out their AI feature set. Only show people from the U.S.",3,sjunwikul,4.0
+52180,"A Boston University (BU) alum that is a head of a department or a founder at an AI first, or AI adjacent company. The company can be losely related to AI or LLMs, or might be working to building out their AI feature set. Only show people from the U.S.",4,hari-banoth-88a719186,1.0
+52180,"A Boston University (BU) alum that is a head of a department or a founder at an AI first, or AI adjacent company. The company can be losely related to AI or LLMs, or might be working to building out their AI feature set. Only show people from the U.S.",6,jhafiz,4.0
+52180,"A Boston University (BU) alum that is a head of a department or a founder at an AI first, or AI adjacent company. The company can be losely related to AI or LLMs, or might be working to building out their AI feature set. Only show people from the U.S.",7,eric-gross-oz,4.0
+52180,"A Boston University (BU) alum that is a head of a department or a founder at an AI first, or AI adjacent company. The company can be losely related to AI or LLMs, or might be working to building out their AI feature set. Only show people from the U.S.",8,eliotweinman,4.0
+52180,"A Boston University (BU) alum that is a head of a department or a founder at an AI first, or AI adjacent company. The company can be losely related to AI or LLMs, or might be working to building out their AI feature set. Only show people from the U.S.",9,joe-massey-9a3018152,4.0
+52185,COOs from small consumer hardware companies in California,0,tyler-howard-63586b98,4.0
+52185,COOs from small consumer hardware companies in California,1,torencelu,4.0
+52185,COOs from small consumer hardware companies in California,2,teratum-lowchareonkul-5a640b10,4.0
+52185,COOs from small consumer hardware companies in California,3,aricjennings,4.0
+52185,COOs from small consumer hardware companies in California,4,calvin-bach-31825416,4.0
+52185,COOs from small consumer hardware companies in California,5,cristinacovblic,4.0
+52185,COOs from small consumer hardware companies in California,6,marden-perez-1461bb90,2.0
+52185,COOs from small consumer hardware companies in California,7,parkerwondries,4.0
+52185,COOs from small consumer hardware companies in California,8,kevin-brown-086b089,4.0
+52185,COOs from small consumer hardware companies in California,9,gunsens,1.0
+52186,A perception or computer vision engineer with experience at a startup related to self-driving cars or drones based in San Francisco,0,paul-shved,4.0
+52186,A perception or computer vision engineer with experience at a startup related to self-driving cars or drones based in San Francisco,1,vijayaganeshmohan,4.0
+52186,A perception or computer vision engineer with experience at a startup related to self-driving cars or drones based in San Francisco,2,linhao-jin-52825aa8,4.0
+52186,A perception or computer vision engineer with experience at a startup related to self-driving cars or drones based in San Francisco,3,kylekrafka,4.0
+52186,A perception or computer vision engineer with experience at a startup related to self-driving cars or drones based in San Francisco,4,aaditp,4.0
+52186,A perception or computer vision engineer with experience at a startup related to self-driving cars or drones based in San Francisco,5,yang-xue,4.0
+52186,A perception or computer vision engineer with experience at a startup related to self-driving cars or drones based in San Francisco,6,warren-craddock-8bb60a4,4.0
+52186,A perception or computer vision engineer with experience at a startup related to self-driving cars or drones based in San Francisco,7,danny-jeck-83640711,3.0
+52186,A perception or computer vision engineer with experience at a startup related to self-driving cars or drones based in San Francisco,8,keyi-ren-02b48b129,2.0
+52186,A perception or computer vision engineer with experience at a startup related to self-driving cars or drones based in San Francisco,9,prsnkrsn,3.0
+52187,VP of Marketing based in LA with strong understandings of data analytics,0,matthewjjordan,4.0
+52187,VP of Marketing based in LA with strong understandings of data analytics,1,joshua-yamaguchi93,3.0
+52187,VP of Marketing based in LA with strong understandings of data analytics,2,nealcotter,4.0
+52187,VP of Marketing based in LA with strong understandings of data analytics,3,jameswinstead,4.0
+52187,VP of Marketing based in LA with strong understandings of data analytics,4,olgarefsland,4.0
+52187,VP of Marketing based in LA with strong understandings of data analytics,5,jordan-rudin-dierks-2834b041,4.0
+52187,VP of Marketing based in LA with strong understandings of data analytics,6,stephaniekingho,4.0
+52187,VP of Marketing based in LA with strong understandings of data analytics,7,digitalstats,4.0
+52187,VP of Marketing based in LA with strong understandings of data analytics,8,armen-rostamian,4.0
+52187,VP of Marketing based in LA with strong understandings of data analytics,9,martyturman,4.0
+52190,"Customer Success managers located in San Francisco with the following:
+
+At least 3 years experience in B2B SaaS
+Startup experience
+Healthcare tech experience",0,shruti-chander-9658962,2.0
+52190,"Customer Success managers located in San Francisco with the following:
+
+At least 3 years experience in B2B SaaS
+Startup experience
+Healthcare tech experience",1,ken-dong-632b391,4.0
+52190,"Customer Success managers located in San Francisco with the following:
+
+At least 3 years experience in B2B SaaS
+Startup experience
+Healthcare tech experience",2,caleyrittman,4.0
+52190,"Customer Success managers located in San Francisco with the following:
+
+At least 3 years experience in B2B SaaS
+Startup experience
+Healthcare tech experience",3,brigid-mulroy,4.0
+52190,"Customer Success managers located in San Francisco with the following:
+
+At least 3 years experience in B2B SaaS
+Startup experience
+Healthcare tech experience",4,madelineboon,3.0
+52190,"Customer Success managers located in San Francisco with the following:
+
+At least 3 years experience in B2B SaaS
+Startup experience
+Healthcare tech experience",5,yconcordel,2.0
+52190,"Customer Success managers located in San Francisco with the following:
+
+At least 3 years experience in B2B SaaS
+Startup experience
+Healthcare tech experience",6,johnbakaldin,2.0
+52190,"Customer Success managers located in San Francisco with the following:
+
+At least 3 years experience in B2B SaaS
+Startup experience
+Healthcare tech experience",7,jessica-warner1,4.0
+52190,"Customer Success managers located in San Francisco with the following:
+
+At least 3 years experience in B2B SaaS
+Startup experience
+Healthcare tech experience",8,amitis-pedramrazi,4.0
+52190,"Customer Success managers located in San Francisco with the following:
+
+At least 3 years experience in B2B SaaS
+Startup experience
+Healthcare tech experience",9,crystalsorokin,2.0
+52188,"I am seeking founders, co-founders, or CEOs of companies founded in the last six years in the USA, specifically in the areas of tax automation, accounting, and company registration.",0,kellcanty,4.0
+52188,"I am seeking founders, co-founders, or CEOs of companies founded in the last six years in the USA, specifically in the areas of tax automation, accounting, and company registration.",1,ericsu921,4.0
+52188,"I am seeking founders, co-founders, or CEOs of companies founded in the last six years in the USA, specifically in the areas of tax automation, accounting, and company registration.",2,kevin-liu-cal,4.0
+52188,"I am seeking founders, co-founders, or CEOs of companies founded in the last six years in the USA, specifically in the areas of tax automation, accounting, and company registration.",3,rajeevbehera,4.0
+52188,"I am seeking founders, co-founders, or CEOs of companies founded in the last six years in the USA, specifically in the areas of tax automation, accounting, and company registration.",4,matthew-shiebler-8ba322186,4.0
+52188,"I am seeking founders, co-founders, or CEOs of companies founded in the last six years in the USA, specifically in the areas of tax automation, accounting, and company registration.",5,jaldama,4.0
+52188,"I am seeking founders, co-founders, or CEOs of companies founded in the last six years in the USA, specifically in the areas of tax automation, accounting, and company registration.",6,samantha-jones-83546655,4.0
+52188,"I am seeking founders, co-founders, or CEOs of companies founded in the last six years in the USA, specifically in the areas of tax automation, accounting, and company registration.",7,abdul-raffay-6544361a8,3.0
+52188,"I am seeking founders, co-founders, or CEOs of companies founded in the last six years in the USA, specifically in the areas of tax automation, accounting, and company registration.",8,yukosakai,3.0
+52188,"I am seeking founders, co-founders, or CEOs of companies founded in the last six years in the USA, specifically in the areas of tax automation, accounting, and company registration.",9,ran-tian-138063156,2.0
+52189,Find me founders of California based tech companies that have from 10 to 300 employees and are currently actively hiring employees. But don't show me recruiters and don't show me those who work for recruitment agencies. Show me only people that currently are founders (and hide the ones that were founders someday but are not founders now.,0,evanhynes,1.0
+52189,Find me founders of California based tech companies that have from 10 to 300 employees and are currently actively hiring employees. But don't show me recruiters and don't show me those who work for recruitment agencies. Show me only people that currently are founders (and hide the ones that were founders someday but are not founders now.,1,tomaspuig,4.0
+52189,Find me founders of California based tech companies that have from 10 to 300 employees and are currently actively hiring employees. But don't show me recruiters and don't show me those who work for recruitment agencies. Show me only people that currently are founders (and hide the ones that were founders someday but are not founders now.,2,samueldevyver,4.0
+52189,Find me founders of California based tech companies that have from 10 to 300 employees and are currently actively hiring employees. But don't show me recruiters and don't show me those who work for recruitment agencies. Show me only people that currently are founders (and hide the ones that were founders someday but are not founders now.,4,billytianlan,3.0
+52189,Find me founders of California based tech companies that have from 10 to 300 employees and are currently actively hiring employees. But don't show me recruiters and don't show me those who work for recruitment agencies. Show me only people that currently are founders (and hide the ones that were founders someday but are not founders now.,5,genevievejurvetson,2.0
+52189,Find me founders of California based tech companies that have from 10 to 300 employees and are currently actively hiring employees. But don't show me recruiters and don't show me those who work for recruitment agencies. Show me only people that currently are founders (and hide the ones that were founders someday but are not founders now.,6,jane1nouromid,1.0
+52189,Find me founders of California based tech companies that have from 10 to 300 employees and are currently actively hiring employees. But don't show me recruiters and don't show me those who work for recruitment agencies. Show me only people that currently are founders (and hide the ones that were founders someday but are not founders now.,7,ijasmineali,2.0
+52189,Find me founders of California based tech companies that have from 10 to 300 employees and are currently actively hiring employees. But don't show me recruiters and don't show me those who work for recruitment agencies. Show me only people that currently are founders (and hide the ones that were founders someday but are not founders now.,8,jonathansimkin,2.0
+52189,Find me founders of California based tech companies that have from 10 to 300 employees and are currently actively hiring employees. But don't show me recruiters and don't show me those who work for recruitment agencies. Show me only people that currently are founders (and hide the ones that were founders someday but are not founders now.,9,tmacleod,4.0
+52192,a senior UX designer who is in san francisco that has been a founding ux designer,0,zoeboosalis,3.0
+52192,a senior UX designer who is in san francisco that has been a founding ux designer,1,thecoreyhunt,3.0
+52192,a senior UX designer who is in san francisco that has been a founding ux designer,2,gregcutlergraphics,4.0
+52192,a senior UX designer who is in san francisco that has been a founding ux designer,3,brianringseis,3.0
+52192,a senior UX designer who is in san francisco that has been a founding ux designer,4,sean2space,2.0
+52192,a senior UX designer who is in san francisco that has been a founding ux designer,5,cdevillasante,4.0
+52192,a senior UX designer who is in san francisco that has been a founding ux designer,6,jessica-chen-a7a8ab22,4.0
+52192,a senior UX designer who is in san francisco that has been a founding ux designer,7,seema-a-b817b010a,4.0
+52192,a senior UX designer who is in san francisco that has been a founding ux designer,8,gdmarch,4.0
+52192,a senior UX designer who is in san francisco that has been a founding ux designer,9,deepika-agarwal-bayarea,4.0
