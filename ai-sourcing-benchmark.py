@@ -14,13 +14,10 @@
 
 # # Evaluating AI sourcing tools
 
-# ## Using proprietary scoring method
-
 # %cd ~/ai-sourcing-benchmark/
 
 import pandas as pd
 pd.set_option('display.max_columns', 100)
-DROP_PROFILES = False
 
 # +
 import glob
@@ -34,8 +31,6 @@ def load_search_results():
         df['source'] = {'exa.csv': 'Exa.AI', 'pearch.csv': 'Pearch.AI', 'people.csv': 'PeopleGPT', 'link.csv': 'LinkedIn'}[os.path.basename(f)]
         out.append(df)
     df = pd.concat(out)
-    if DROP_PROFILES:
-        df.drop(columns=['profile'], errors='ignore', inplace=True)
     return df
 
 df_sr = load_search_results()
@@ -277,15 +272,15 @@ df_majority.head(2)
 
 human_stats = df_human.query('is_test').set_index(['query', 'Candidate A', 'Candidate B']).join(df_majority).reset_index().groupby('worker').apply(
     lambda g: pd.Series({
-        'Majority alignment rate': round((g['Majority vote'] == g['Human winner']).mean(), 2),
-        'Number of samples': len(g),
-        'Number of queries': g['query'].nunique()
+        'Alignment with Majority Vote': round((g['Majority vote'] == g['Human winner']).mean(), 2),
+        'Total Samples': len(g),
+        'Total Queries': g['query'].nunique()
     })
-).astype({'Number of samples': 'int', 'Number of queries': 'int'}).sort_values(by='Majority alignment rate', ascending=False)
+).astype({'Total Samples': 'int', 'Total Queries': 'int'}).sort_values(by='Alignment with Majority Vote', ascending=False)
 human_stats
 
 TOP_HUMANS = human_stats.head(len(human_stats) // 2).index.tolist()
-", ".join(TOP_HUMANS)
+", ".join([f"\textt{{{h}}}" for h in TOP_HUMANS])
 
 df_top_human = df_human[df_human.worker.isin(TOP_HUMANS)]
 
@@ -300,31 +295,41 @@ df_result
 # -
 
 df_human[['LLM winner', 'LLM summary']] = run_llm_sbs(df_human, 'data/human_sbs.csv')[['LLM winner', 'LLM summary']].values.tolist()
-df_human['LLM alignment rate'] = df_human['LLM winner'] == df_human['Human winner']
-df_human.groupby(['worker']).agg({
-    'LLM alignment rate': 'mean',
-    'Human winner': 'count'
-}).rename(columns={'Human winner': 'count'}).sort_values('LLM alignment rate', ascending=False)
 
-df_regplot = df_human.query('not is_test').groupby('worker')[['LLM alignment rate']].mean().join(human_stats[['Majority alignment rate']]).dropna()
+
+df_human['Alignment with LLM-judge'] = df_human['LLM winner'] == df_human['Human winner']
+df_human.groupby(['worker']).agg({
+    'Alignment with LLM-judge': 'mean',
+    'Human winner': 'count'
+}).rename(columns={'Human winner': 'count'}).round(2).sort_values('Alignment with LLM-judge', ascending=False)
+
+df_regplot = df_human.query('not is_test').groupby('worker')[['Alignment with LLM-judge']].mean().join(human_stats[['Alignment with Majority Vote']]).dropna()
+
+df_regplot
 
 # +
 
 import seaborn as sns
+from scipy.stats import pearsonr
+
 gap = 0.02
 sns.regplot(
     data=df_regplot,
-    x='LLM alignment rate',
-    y='Majority alignment rate',
+    x='Alignment with LLM-judge',
+    y='Alignment with Majority Vote',
     x_ci='ci',
     ci=95,
     truncate=True,
 ).set(
-    title='Human majority alignment vs LLM-judge alignment',
+    title='Alignment with Majority Vote vs Alignment with LLM-judge',
     aspect='equal',
-    xlim=(df_regplot['LLM alignment rate'].min() - gap, df_regplot['LLM alignment rate'].max() + gap),
-    ylim=(df_regplot['Majority alignment rate'].min() - gap, df_regplot['Majority alignment rate'].max() + gap)
+    xlim=(df_regplot['Alignment with LLM-judge'].min() - gap, df_regplot['Alignment with LLM-judge'].max() + gap),
+    ylim=(df_regplot['Alignment with Majority Vote'].min() - gap, df_regplot['Alignment with Majority Vote'].max() + gap)
 )
+
+# Calculate and print correlation statistics
+correlation, p_value = pearsonr(df_regplot['Alignment with LLM-judge'], df_regplot['Alignment with Majority Vote'])
+print(f"Correlation: {correlation:.2f}, p-value: {p_value:.4f}")
 
 
 # +
@@ -400,7 +405,7 @@ plot_win_rate_and_battle_count_heatmaps(df_human.query('not is_test and worker i
 # +
 fig, axes = plt.subplots(1, 3, figsize=(14, 4))
 
-smpls = 30
+smpls = 100
 ylim = (1200, 1800)
 sbs_elo(
     df_human.query('not is_test'),
@@ -426,3 +431,69 @@ sbs_elo(
 plt.tight_layout()
 plt.show()
 
+
+# +
+from elosports.elo import Elo
+import pandas as pd
+
+def elo_win_rate_matrix(df_sbs, winner_col='Human winner', run_n_times=30):
+    aggregated_matrix = None
+    
+    for _ in tqdm(range(run_n_times), desc="Elo Simulation Progress"):
+        eloLeague = Elo(k=20, homefield=False)
+        sample_df = df_sbs.sample(frac=1.0)
+        
+        # Add players to the Elo league
+        for player in set(sample_df.source1.unique().tolist() + sample_df.source2.unique().tolist()):
+            eloLeague.addPlayer(player)
+        
+        # Process each match result
+        for id, r in sample_df.iterrows():
+            if r.source1 == r.source2:
+                continue
+            players = set(r[['source1', 'source2']].tolist())
+            loser = list(players - set([r[winner_col]]))
+            if not loser:
+                print(players, r[winner_col], loser, id, r)
+            loser = loser[0]
+            eloLeague.gameOver(winner=r[winner_col], loser=loser, winnerHome=False)
+        
+        # Create win-rate matrix
+        players = list(eloLeague.ratingDict.keys())
+        win_rate_matrix = pd.DataFrame(index=players, columns=players, data=0.0)
+        
+        for player1 in players:
+            for player2 in players:
+                if player1 != player2:
+                    expected_win_rate = eloLeague.expectResult(eloLeague.ratingDict[player1], eloLeague.ratingDict[player2])
+                    win_rate_matrix.loc[player1, player2] = expected_win_rate
+        
+        # Aggregate matrices
+        if aggregated_matrix is None:
+            aggregated_matrix = win_rate_matrix
+        else:
+            aggregated_matrix += win_rate_matrix
+    
+    # Average the matrices
+    averaged_matrix = aggregated_matrix / run_n_times
+    
+    # Order rows and columns by average win rate
+    averaged_matrix['average'] = averaged_matrix.mean(axis=1)
+    averaged_matrix = averaged_matrix.sort_values(by='average', ascending=False).drop(columns='average')
+    averaged_matrix = averaged_matrix.loc[averaged_matrix.index, averaged_matrix.index]  # Reorder columns to match the order of rows
+    
+    return averaged_matrix
+
+win_rate_matrix = elo_win_rate_matrix(df_human.query('not is_test'))
+
+
+
+# +
+
+# Plot win-rate heatmap
+# plt.figure(figsize=(10, 8))
+plt.title('Expected Win-Rate (Elo, 30 runs, averaged)')
+sns.heatmap(win_rate_matrix, annot=True, fmt=".2f", cmap="RdBu_r", center=0.5, cbar=True)
+plt.xlabel('')
+plt.ylabel('')
+plt.show()
