@@ -2,7 +2,7 @@
 
 Benchmarking AI recruitment tools vs. LinkedIn Recruiter using human and LLM evaluations.
 
-📄 [Read the paper](https://github.com/vslaykovsky/ai-sourcing-benchmark/ai-sourcing-benchmark.pdf)
+📄 [Read the paper](https://github.com/vslaykovsky/ai-sourcing-benchmark/blob/master/ai-sourcing-benchmark.pdf)
 
 ## Tools Compared
 - Pearch.ai
