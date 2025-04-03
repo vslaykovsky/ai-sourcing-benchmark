@@ -1,0 +1,34 @@
+\newcommand{\etalchar}[1]{$^{#1}$}
+\begin{thebibliography}{LPP{\etalchar{+}}20}
+
+\bibitem[CZS{\etalchar{+}}24]{chiang2024chatbot}
+Wei-Lin Chiang, Lianmin Zheng, Ying Sheng, Anastasios~Nikolas Angelopoulos, Tianle Li, Dacheng Li, Banghua Zhu, Hao Zhang, Michael Jordan, Joseph~E Gonzalez, et~al.
+\newblock Chatbot arena: An open platform for evaluating llms by human preference.
+\newblock In {\em Forty-first International Conference on Machine Learning}, 2024.
+
+\bibitem[Elo66]{elo1966uscf}
+Arpad~E Elo.
+\newblock {\em The USCF rating system: Its development, theory, and applications}.
+\newblock United States Chess Federation, 1966.
+
+\bibitem[L{\etalchar{+}}09]{liu2009learning}
+Tie-Yan Liu et~al.
+\newblock Learning to rank for information retrieval.
+\newblock {\em Foundations and Trends{\textregistered} in Information Retrieval}, 3(3):225--331, 2009.
+
+\bibitem[LPP{\etalchar{+}}20]{lewis2020retrieval}
+Patrick Lewis, Ethan Perez, Aleksandra Piktus, Fabio Petroni, Vladimir Karpukhin, Naman Goyal, Heinrich K{\"u}ttler, Mike Lewis, Wen-tau Yih, Tim Rockt{\"a}schel, et~al.
+\newblock Retrieval-augmented generation for knowledge-intensive nlp tasks.
+\newblock {\em Advances in neural information processing systems}, 33:9459--9474, 2020.
+
+\bibitem[RG19]{reimers2019sentence}
+Nils Reimers and Iryna Gurevych.
+\newblock Sentence-bert: Sentence embeddings using siamese bert-networks.
+\newblock {\em arXiv preprint arXiv:1908.10084}, 2019.
+
+\bibitem[ZCS{\etalchar{+}}23]{zheng2023judging}
+Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi~Lin, Zhuohan Li, Dacheng Li, Eric Xing, et~al.
+\newblock Judging llm-as-a-judge with mt-bench and chatbot arena.
+\newblock {\em Advances in Neural Information Processing Systems}, 36:46595--46623, 2023.
+
+\end{thebibliography}
